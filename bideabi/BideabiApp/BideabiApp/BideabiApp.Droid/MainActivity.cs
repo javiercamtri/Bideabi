@@ -7,7 +7,7 @@ using Android.Views;
 using Android.Widget;
 using Android.OS;
 
-namespace BideabiApp.Droid
+namespace BideabiApp.Droid 
 {
 	[Activity (Label = "BideabiApp.Droid", MainLauncher = true, Icon = "@drawable/icon")]
 	public class MainActivity : Activity
